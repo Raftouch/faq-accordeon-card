@@ -11,5 +11,3 @@ questions.forEach((question) => question.addEventListener('click', () => {
     }
 })
 );
-
-
